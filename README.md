@@ -89,23 +89,6 @@ class Josip:
   <img src="https://streak-stats.demolab.com?user=josipbuselic&hide_border=true&theme=tokyonight&stroke=8aadf4&ring=8aadf4&fire=ff9e64&currStreakLabel=8aadf4" />
 </p>
 
-<!-- ============== SNAKE EATING CONTRIBUTIONS ============== -->
-
-## 🐍 &nbsp;Contribution Snake
-
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/josipbuselic/josipbuselic/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<!-- ============== ACTIVITY GRAPH ============== -->
-
-## 📈 &nbsp;Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josipbuselic&bg_color=1a1b27&color=8aadf4&line=8aadf4&point=ffffff&area=true&hide_border=true&custom_title=Contributions%20over%20time" />
-</p>
-
-
 <!-- ============== QUOTE ============== -->
 
 ## 💭 &nbsp;Today's quote
